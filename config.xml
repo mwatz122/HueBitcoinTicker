@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<light_id>1</light_id>
+	<hub_url>http://localhost:8000</hub_url>
+	<hub_username>newdeveloper</hub_username>
+	<gdax_url>https://api.gdax.com/products/BTC-USD/ticker</gdax_url>
+	<interval_time_seconds>3</interval_time_seconds>
+</config>
